@@ -1,0 +1,34 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 10px;
+}
+
+.avatar {
+  width: 5rem;
+  height: 5rem;
+  background-color: gold;
+  float: left;
+  margin-right: 0.5rem;
+  /* patten element dont see float element */
+  /* we use clear after float to avoid layout issue */
+}
+
+.clear {
+  clear: both;
+  /* float to left => left right=> right */
+}
+
+.tweet {
+  border: 3px solid gray;
+  /* other way can use overflow but not the best option */
+  overflow: hidden;
+}
+/* element can have multiple class split by space */
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}

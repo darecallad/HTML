@@ -1,0 +1,33 @@
+body {
+  margin: 10px;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background: linear-gradient(to right, dodgerblue, yellow);
+}
+
+.box1 {
+  width: 200px;
+  height: 200px;
+  background: linear-gradient(45deg, dodgerblue, yellow);
+}
+
+.box2 {
+  width: 200px;
+  height: 200px;
+  background: linear-gradient(45deg, dodgerblue, yellow 30%);
+}
+
+.box3 {
+  width: 200px;
+  height: 200px;
+  background: linear-gradient(45deg, dodgerblue, yellow, pink);
+}
+
+.box4 {
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(dodgerblue, yellow);
+}

@@ -1,0 +1,11 @@
+body {
+  margin: 10px;
+}
+
+.products {
+  color: orange;
+}
+
+a[target*="_blank"] {
+  color: orange;
+}

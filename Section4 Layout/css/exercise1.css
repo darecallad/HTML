@@ -1,0 +1,27 @@
+html {
+  font: size 62.5%;
+}
+body {
+  margin: 10px;
+}
+
+.container {
+  background: black;
+  color: white;
+  padding: 0.7rem;
+  flex-direction: column;
+  display: flex;
+}
+
+.box {
+  padding: 10px;
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    flex-direction: row;
+    display: flex;
+    justify-content: flex-end;
+  }
+}

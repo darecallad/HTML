@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/Section7 Forms/css/style.css" />
+    <link rel="stylesheet" href="/Section7 Forms/css/exercise1.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css"
+    />
+    <title>Exercise1 Sign In</title>
+  </head>
+  <body>
+    <form action="https://formspree.io/f/xvodawdv" method="POST">
+      <h3>Please Sign In</h3>
+      <div>
+        <input
+          type="email"
+          placeholder="Email Address"
+          name="email"
+          required
+          minlength="5"
+          maxlength="50"
+          autofocus
+        />
+      </div>
+      <div>
+        <input
+          type="password"
+          placeholder="Password"
+          name="password"
+          required
+          maxlength="255"
+        />
+      </div>
+      <div>
+        <input type="checkbox" name="remember" id="remember" />
+        <label for="remember" class="label-inline">Remember me</label>
+      </div>
+      <button type="submit">Sign in</button>
+      <p>Copyright &copy;2021</p>
+    </form>
+  </body>
+</html>

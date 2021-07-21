@@ -1,0 +1,27 @@
+html {
+  font-size: 62.5%;
+}
+body {
+  margin: 10px;
+}
+/* after first P */
+p + p {
+  width: 50ch;
+  text-align: left;
+  /* best */
+  text-indent: 1rem;
+  text-decoration: underline;
+  /* line though */
+  text-transform: capitalize;
+  /* every first letter */
+  white-space: nowrap;
+  /* control wrapping   1 lane */
+  border: yellow 3px solid;
+  text-overflow: ellipsis;
+  /*  ... in the end */
+  column-count: 2;
+  column-gap: 2rem;
+  column-rule: lightgray;
+  direction: rtl;
+  /* usually in body level */
+}

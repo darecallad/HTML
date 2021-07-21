@@ -1,0 +1,15 @@
+body {
+  margin: 10px;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: royalblue;
+  box-shadow: 0 0 20px grey;
+}
+
+h1 {
+  color: wheat;
+  text-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
