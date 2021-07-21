@@ -13,11 +13,11 @@ responsive images
 transformations
 transitions
 
-
 //
 
-
-**  Define color palette  (Primary, Secondary, Accent)
-**  Typography (fonts  Inter,) font-size, 
-**  Links
-**  Badges
+** Define color palette (Primary, Secondary, Accent)
+** Typography (fonts Inter,) font-size,
+** Links
+** Badges
+** Lists
+** Icon (SVG Sprite Generator)
