@@ -31,4 +31,5 @@ transitions
 ** Quotes
 ** Grid
 ** Testimonials
-\*\* Callouts
+** Callouts
+** Collapsibles
