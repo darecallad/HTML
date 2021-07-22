@@ -29,3 +29,6 @@ transitions
 ** Popular Badge
 ** Media Objects
 ** Quotes
+** Grid
+** Testimonials
+\*\* Callouts
