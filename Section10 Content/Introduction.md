@@ -27,3 +27,5 @@ transitions
 ** Cards
 ** Plans
 ** Popular Badge
+** Media Objects
+** Quotes
