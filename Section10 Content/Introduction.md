@@ -33,3 +33,5 @@ transitions
 ** Testimonials
 ** Callouts
 ** Collapsibles
+** Blocks -- Clip path generator
+** Navigation Bar
