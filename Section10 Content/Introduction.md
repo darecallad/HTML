@@ -21,4 +21,8 @@ transitions
 ** Badges
 ** Lists
 ** Icon (SVG Sprite Generator)
-\*\* Buttons
+** Buttons
+** Input
+** Input Groups
+** Cards
+\*\* Plans
