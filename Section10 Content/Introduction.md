@@ -25,4 +25,5 @@ transitions
 ** Input
 ** Input Groups
 ** Cards
-\*\* Plans
+** Plans
+** Popular Badge
