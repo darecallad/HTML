@@ -35,3 +35,5 @@ transitions
 ** Collapsibles
 ** Blocks -- Clip path generator
 ** Navigation Bar
+** Hero
+** Optimizing Image
