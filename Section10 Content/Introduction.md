@@ -41,3 +41,5 @@ transitions
 ** Plans Blocks
 ** Feature Blocks
 ** Showcase Blocks
+** Footer
+**Putting all together
