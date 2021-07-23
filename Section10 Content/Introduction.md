@@ -37,3 +37,5 @@ transitions
 ** Navigation Bar
 ** Hero
 ** Optimizing Image
+** Domain Blocks
+** Plans Blocks
