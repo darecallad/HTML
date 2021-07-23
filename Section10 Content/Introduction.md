@@ -39,3 +39,5 @@ transitions
 ** Optimizing Image
 ** Domain Blocks
 ** Plans Blocks
+** Feature Blocks
+** Showcase Blocks
