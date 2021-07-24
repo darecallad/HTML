@@ -42,4 +42,17 @@ transitions
 ** Feature Blocks
 ** Showcase Blocks
 ** Footer
-**Putting all together
+** Putting all together
+** Trobleshooting Layout issues
+** AOS animate on scroll library data-aos =""
+** Search Engine Optimization (Ogp.me) to learn more
+** Validation HTML and CSS (html validator) (css validator)
+** Building for Production
+Webpack
+Rollup
+Parcel ** \*\* (node)
+check node : node -v
+npm init -y (create json)
+install parcel 1.12.4(npm i -D parcel-bundler@1.12.4)
+.gitignore (ignore files) node_modules/
+remove xlink to none
