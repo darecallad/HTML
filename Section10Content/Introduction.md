@@ -48,11 +48,15 @@ transitions
 ** Search Engine Optimization (Ogp.me) to learn more
 ** Validation HTML and CSS (html validator) (css validator)
 ** Building for Production
-Webpack
-Rollup
-Parcel ** \*\* (node)
-check node : node -v
-npm init -y (create json)
-install parcel 1.12.4(npm i -D parcel-bundler@1.12.4)
-.gitignore (ignore files) node_modules/
-remove xlink to none
+-Webpack
+-Rollup
+-Parcel ** ** (node)
+||-check node : node -v
+||-npm init -y (create json)
+||-install parcel 1.12.4(npm i -D parcel-bundler@1.12.4)
+||-.gitignore (ignore files) node_modules/ dist/ .cache/
+||-remove xlink to none in index.html
+||-Netlify.com to publish your page
+||----parcel build index.html
+||----dist dierctory
+** web.dev/measure
